@@ -1,6 +1,6 @@
 # Base58
 
-- Base58 library ( * [https://github.com/cryptocoinjs/base-x](Original implementation from base-x))
+- Base58 library ([Original implementation from base-x](https://github.com/cryptocoinjs/base-x))
 - ES module for web and [Deno](https://deno.land)
 
 ## sample app
