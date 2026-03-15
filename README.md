@@ -1,5 +1,7 @@
 # Base58
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A Base58 encoding/decoding library for the web and Deno.
 
 ## Demo
