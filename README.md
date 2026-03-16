@@ -4,9 +4,6 @@
 
 A Base58 encoding/decoding library for the web and Deno.
 
-## Demo
-https://code4fukui.github.io/Base58/
-
 ## Features
 - Base58 encoding and decoding
 - ES module for web and Deno
@@ -21,4 +18,4 @@ console.log(Base58.decode("2Vzei"));
 ```
 
 ## License
-MIT
+MIT License — see [LICENSE](LICENSE).

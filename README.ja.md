@@ -2,9 +2,6 @@
 
 Base58は、ウェブおよびDenoで使用できるBase58エンコーディング/デコーディングライブラリです。
 
-## デモ
-https://code4fukui.github.io/Base58/
-
 ## 機能
 - Base58エンコーディングとデコーディング
 - ウェブおよびDenoのためのESモジュール
